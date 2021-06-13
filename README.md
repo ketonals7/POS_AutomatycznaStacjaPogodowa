@@ -1,0 +1,2 @@
+# POS_AutomatycznaStacjaPogodowa
+xyz
